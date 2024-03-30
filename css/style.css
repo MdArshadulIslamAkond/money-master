@@ -1,0 +1,16 @@
+.emoji {
+  width: 35px;
+  height: 35px;
+}
+.img-money {
+  height: 640px !important;
+}
+.money {
+  color: #31a5ac;
+}
+.second {
+  background-color: #f8f8f8;
+}
+.commone {
+  background-color: #dcdcdc !important;
+}
